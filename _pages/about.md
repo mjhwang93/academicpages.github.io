@@ -28,9 +28,8 @@ If you are interested to me, please feel free to contact me!
 
 ---
 # Education
-:mortar_board: 2/2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
-
-:mortar_board: 8/2015 : B.S. degree in Electrical and Electronics, Yonsei University
+- :mortar_board: 2/2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
+- :mortar_board: 8/2015 : B.S. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
 
 ---
 # Research Interests
