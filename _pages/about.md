@@ -10,8 +10,8 @@ redirect_from:
 
 My name is Min-Jae Hwang. 
 I am a research scientist at NAVER Corporation.
-I obtained my Ph.D. degree at Yonsei University in department of Electrical and Electronics.
-During my Ph.D., I had an internship experiences as a researcher at Microsoft Research Asia and NAVER Corporation.
+I obtained my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in department of Electrical and Electronics.
+During my Ph.D., I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [NAVER Corporation](https://www.navercorp.com/en).
 
 My research interests include speech synthesis.
 Especially, my research history mainly focused in improving neural vocoding system for high-quality speech synthesis system, which has a potential to be applied to various speech applications such as speech synthesis, voice conversion, or speech-to-speech translation.
@@ -19,24 +19,17 @@ Especially, my research history mainly focused in improving neural vocoding syst
 I'm happy to learn new techniques, and enjoy applying those knowledge to solve our society's real-world problems.
 If you are interested to me, please feel free to contact me!
 
-<br>
-
 ## NEWS!
-&check; Aug. 2022: I'll join META AI Research as a Postdoctoral Researcher.
+&check; Aug. 2022: I'll join META AI Research as a Postdoctoral Researcher!
 
-&check; May. 2022: Our two papers have been accepted to INTERSPEECH 2022.
+&check; May. 2022: Our two papers have been accepted to [INTERSPEECH 2022](https://interspeech2022.org/).
 
-&check; May. 2022: I gave a guest lectures at KAIST and SNU.
-  - Title: Voice Synthesis and Applications
-
-<br>
+&check; May. 2022: I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
 
 # Education
 :mortar_board: Feb. 2020: Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
 
 :mortar_board: Aug. 2015: B.S. degree in Electrical and Electronics, Yonsei University
-
-<br>
 
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
@@ -47,8 +40,6 @@ If you are interested to me, please feel free to contact me!
   - Direct modeling
   - Simulaneous S2ST
   - Expressive S2ST
-
-<br>
 
 # Recent Publications
 - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
@@ -70,8 +61,6 @@ If you are interested to me, please feel free to contact me!
 - **High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model**
   - **Min-Jae Hwang**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
   - <var>Accepted to Interspeech 2021</var>
-
-<br>
 
 
 <!-- # 
