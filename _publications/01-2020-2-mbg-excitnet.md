@@ -2,7 +2,7 @@
 title: "Neural Text-to-Speech with a Modeling-by-Generation Excitation Vocoder"
 collection: publications
 permalink: /publication/2020/08/01-2020-2-mbg-excitnet
-authors: Eunwoo Song, **Min-Jae Hwang**, Ryuichi Yamamoto, Jin-Seob Kim, Ohsung Kwon, Jae-Min Kim
+authors: **<var>Min-Jae Hwang</var>**
 date: 2020/08/01
 venue: 'INTERSPEECH 2020'
 paperurl: 'https://arxiv.org/abs/2008.00132'

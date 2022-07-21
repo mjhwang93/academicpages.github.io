@@ -2,7 +2,7 @@
 title: "Parallel Waveform Synthesis based on Generative Adversarial Networks with Voicing-aware Conditional Discriminators"
 collection: publications
 permalink: /publication/2021/06/06-2021-2-pwg-voicing-disc
-authors: Ryuichi Yamamoto, Eunwoo Song, **Min-Jae Hwang**, Jae-Min Kim
+authors: **<var>Min-Jae Hwang</var>**
 date: 2021/06/06
 venue: 'ICASSP 2021'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9413369'
