@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,73 @@ redirect_from:
   - /about.html
 ---
 
+My name is Min-Jae Hwang. 
+I am a research scientist at NAVER Corporation.
+I obtained my Ph.D. degree at Yonsei University in department of Electrical and Electronics.
+During my Ph.D., I had an internship experiences as a researcher at Microsoft Research Asia and NAVER Corporation.
+
+My research interests include speech synthesis.
+Especially, my research history mainly focused in improving neural vocoding system for high-quality speech synthesis system, which has a potential to be applied to various speech applications such as speech synthesis, voice conversion, or speech-to-speech translation.
+
+I'm happy to learn new techniques, and enjoy applying those knowledge to solve our society's real-world problems.
+If you are interested to me, please feel free to contact me!
+
+<br>
+
+## NEWS!
+&check; Aug. 2022: I'll join META AI Research as a Postdoctoral Researcher.
+
+&check; May. 2022: Our two papers have been accepted to INTERSPEECH 2022.
+
+&check; May. 2022: I gave a guest lectures at KAIST and SNU.
+  - Title: Voice Synthesis and Applications
+
+<br>
+
+# Education
+:mortar_board: Feb. 2020: Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
+
+:mortar_board: Aug. 2015: B.S. degree in Electrical and Electronics, Yonsei University
+
+<br>
+
+# Research Interests
+- **Text-to-speech (TTS) synthesis**
+  - High-quality TTS system
+  - Real-time TTS system
+  - Emotional speech synthesis
+- **Speech-to-speech translation (S2ST)**
+  - Direct modeling
+  - Simulaneous S2ST
+  - Expressive S2ST
+
+<br>
+
+# Recent Publications
+- **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
+  - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **Min-Jae Hwang**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
+  - <var>Accepted to Interspeech 2022</var>
+
+- **Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems**
+  - Hyunwook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, **Min-Jae Hwang**
+  - <var>Accepted to Interspeech 2022</var>
+
+- **Linear Prediction-based Parallel WaveGAN Speech Synthesis**
+  - **Min-Jae Hwang**, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song
+  - <var>Accepted to ICEIC 2022</var>
+
+- **Effective Data Augmentation Methods for Neural Text-to-Speech Systems**
+  - Suhyeon Oh, Ohsung Kwon, **Min-Jae Hwang**, Jae-Min Kim, Eunwoo Song
+  - <var>Accepted to ICEIC 2022</var>
+
+- **High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model**
+  - **Min-Jae Hwang**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
+  - <var>Accepted to Interspeech 2021</var>
+
+<br>
+
+
+<!-- # 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +114,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
