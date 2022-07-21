@@ -20,27 +20,26 @@ I'm happy to learn new techniques, and enjoy applying those knowledge to solve o
 If you are interested to me, please feel free to contact me!
 
 ### <span style="color:green">NEWS!</span>
-:heavy_check_mark: Aug. 2022: I'll join [META AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
+:heavy_check_mark: Aug. 2022 : I'll join [META AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
 <br>
-:heavy_check_mark: May. 2022: Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
+:heavy_check_mark: May. 2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
-:heavy_check_mark: May. 2022: I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
+:heavy_check_mark: May. 2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
 
 ---
 # Education
-:mortar_board: Feb. 2020: Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
+:mortar_board: Feb. 2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
 <br>
-:mortar_board: Aug. 2015: B.S. degree in Electrical and Electronics, Yonsei University
+:mortar_board: Aug. 2015 : B.S. degree in Electrical and Electronics, Yonsei University
 
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
-  - High-quality TTS system
-  - Real-time TTS system
-  - Emotional speech synthesis
+  - High-quality and real-time neural vocoder
+  - Expressive and emotional acoustic model
 - **Speech-to-speech translation (S2ST)**
-  - Direct modeling
-  - Simulaneous S2ST
-  - Expressive S2ST
+  - Direct end-to-end S2ST system
+  - Simulaneous S2ST system
+  - Expressive S2ST system
 
 # Recent Publications
 - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
