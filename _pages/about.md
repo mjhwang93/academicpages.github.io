@@ -20,11 +20,11 @@ I'm happy to learn new techniques, and enjoy applying those knowledge to solve o
 If you are interested to me, please feel free to contact me!
 
 ## NEWS!
-&check; Aug. 2022: I'll join META AI Research as a Postdoctoral Researcher!
+:heavy_check_mark: Aug. 2022: I'll join META AI Research as a Postdoctoral Researcher!
 
-&check; May. 2022: Our two papers have been accepted to [INTERSPEECH 2022](https://interspeech2022.org/).
+:heavy_check_mark: May. 2022: Our two papers have been accepted to [INTERSPEECH 2022](https://interspeech2022.org/).
 
-&check; May. 2022: I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
+:heavy_check_mark: May. 2022: I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
 
 # Education
 :mortar_board: Feb. 2020: Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
