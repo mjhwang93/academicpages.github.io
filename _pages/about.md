@@ -45,23 +45,23 @@ If you are interested to me, please feel free to contact me!
 ---
 # Recent Publications
 - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
-  - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **Min-Jae Hwang**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
+  - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **<var>Min-Jae Hwang<var>**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
   - **<var>Interspeech 2022</var>**, [paper](https://arxiv.org/abs/2206.14984) 
 
 - **Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems**
-  - Hyunwook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, **Min-Jae Hwang**
+  - Hyunwook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, **<var>Min-Jae Hwang<var>**
   - **<var>Interspeech 2022</var>**, [paper](https://arxiv.org/abs/2206.15067) 
 
 - **Linear Prediction-based Parallel WaveGAN Speech Synthesis**
-  - **Min-Jae Hwang**, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song
+  - **<var>Min-Jae Hwang<var>**, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song
   - **<var>ICEIC 2022</var>**, [paper](https://ieeexplore.ieee.org/document/9748530) 
 
 - **Effective Data Augmentation Methods for Neural Text-to-Speech Systems**
-  - Suhyeon Oh, Ohsung Kwon, **Min-Jae Hwang**, Jae-Min Kim, Eunwoo Song
+  - Suhyeon Oh, Ohsung Kwon, **<var>Min-Jae Hwang<var>**, Jae-Min Kim, Eunwoo Song
   - **<var>ICEIC 2022</var>**, [paper](https://ieeexplore.ieee.org/document/9748515)
 
 - **High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model**
-  - **Min-Jae Hwang**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
+  - **<var>Min-Jae Hwang<var>**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
   - **<var>Interspeech 2021</var>**, [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2021/hwang21_interspeech.pdf) 
 
 
