@@ -2,7 +2,7 @@
 title: "Parameter Enhancement for MELP Speech Codec in Noisy Communication Environment"
 collection: publications
 permalink: /publication/2019/06/20-2019-1-param-enhance
-authors: **<var>Min-Jae Hwang</var>**
+authors: **<U>Min-Jae Hwang</U>** and Hong-Goo Kang
 date: 2019/06/20
 venue: 'Interspeech 2019'
 paperurl: 'https://arxiv.org/abs/1906.08407'
