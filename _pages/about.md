@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 My name is Min-Jae Hwang. 
-I am a research scientist at NAVER Corporation.
+I am a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I obtained my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in department of Electrical and Electronics.
-During my Ph.D., I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [NAVER Corporation](https://www.navercorp.com/en).
+During my Ph.D., I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
 
 My research interests include speech synthesis.
-Especially, my research history mainly focused in improving neural vocoding system for high-quality speech synthesis system, which has a potential to be applied to various speech applications such as speech synthesis, voice conversion, or speech-to-speech translation.
+Specifically, my research history mainly focuses in improving neural vocoding system for high-quality speech synthesis system, which has a potential to be applied to various speech applications such as speech synthesis, voice conversion, or speech-to-speech translation.
 
 I'm happy to learn new techniques, and enjoy applying those knowledge to solve our society's real-world problems.
 If you are interested to me, please feel free to contact me!
 
 ### <span style="color:green">NEWS!</span>
-:heavy_check_mark: Aug. 2022 : I'll join [META AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
+:heavy_check_mark: Aug. 2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
 <br>
 :heavy_check_mark: May. 2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
@@ -32,6 +32,7 @@ If you are interested to me, please feel free to contact me!
 <br>
 :mortar_board: Aug. 2015 : B.S. degree in Electrical and Electronics, Yonsei University
 
+---
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
   - High-quality and real-time neural vocoder
@@ -41,6 +42,7 @@ If you are interested to me, please feel free to contact me!
   - Simulaneous S2ST system
   - Expressive S2ST system
 
+---
 # Recent Publications
 - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
   - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **Min-Jae Hwang**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
