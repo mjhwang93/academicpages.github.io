@@ -20,17 +20,17 @@ I'm happy to learn new techniques, and enjoy applying those knowledge to solve o
 If you are interested to me, please feel free to contact me!
 
 ### <span style="color:green">NEWS!</span>
-:heavy_check_mark: Aug. 2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
+:heavy_check_mark: 8/2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
 <br>
-:heavy_check_mark: May. 2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
+:heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
-:heavy_check_mark: May. 2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
+:heavy_check_mark: 5/2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
 
 ---
 # Education
-:mortar_board: Feb. 2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
+:mortar_board: 2/2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, Yonsei University
 <br>
-:mortar_board: Aug. 2015 : B.S. degree in Electrical and Electronics, Yonsei University
+:mortar_board: 8/2015 : B.S. degree in Electrical and Electronics, Yonsei University
 
 ---
 # Research Interests
@@ -46,23 +46,23 @@ If you are interested to me, please feel free to contact me!
 # Recent Publications
 - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
   - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **Min-Jae Hwang**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
-  - <var>Accepted to Interspeech 2022</var>
+  - <var>**Interspeech 2022**</var>, [paper](https://arxiv.org/abs/2206.14984) 
 
 - **Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems**
   - Hyunwook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, **Min-Jae Hwang**
-  - <var>Accepted to Interspeech 2022</var>
+  - <var>**Interspeech 2022**</var>, [paper](https://arxiv.org/abs/2206.15067) 
 
 - **Linear Prediction-based Parallel WaveGAN Speech Synthesis**
   - **Min-Jae Hwang**, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song
-  - <var>Accepted to ICEIC 2022</var>
+  - <var>**ICEIC 2022**</var>, [paper](https://ieeexplore.ieee.org/document/9748530) 
 
 - **Effective Data Augmentation Methods for Neural Text-to-Speech Systems**
   - Suhyeon Oh, Ohsung Kwon, **Min-Jae Hwang**, Jae-Min Kim, Eunwoo Song
-  - <var>Accepted to ICEIC 2022</var>
+  - <var>**ICEIC 2022**</var>, [paper](https://ieeexplore.ieee.org/document/9748515)
 
 - **High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model**
   - **Min-Jae Hwang**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
-  - <var>Accepted to Interspeech 2021</var>
+  - <var>**Interspeech 2021**</var>, [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2021/hwang21_interspeech.pdf) 
 
 
 <!-- # 
