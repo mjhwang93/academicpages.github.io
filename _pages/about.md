@@ -26,7 +26,7 @@ If you are interested to me, feel free to contact me!
 <br>
 :heavy_check_mark: 5/2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
 <br>
-:heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/)
+:heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
 
 ---
 # Education
