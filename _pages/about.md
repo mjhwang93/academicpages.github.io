@@ -17,7 +17,7 @@ My research interests include speech synthesis.
 Specifically, my research history mainly focuses on improving neural vocoding system for high-quality speech synthesis system, which has a potential to be extended to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation techniques.
 
 I'm happy to learn new knowledge and enjoy applying them to solve our society's real-world problems.
-If you are interested to me, feel free to contact me!
+If you are interested to me, feel free to [contact me](https://mjhwang93.github.io/contact/)!
 
 ### <span style="color:green">NEWS!</span>
 :heavy_check_mark: 6/2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher at this August!
