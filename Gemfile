@@ -24,5 +24,11 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "jemoji"
+  gem 'jemoji'
+  gem 'tzinfo'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 end
+
+gem "eventmachine", "~> 1.2"
+
+gem "webrick", "~> 1.7"

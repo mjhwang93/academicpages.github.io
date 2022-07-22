@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me (!!!This page is under construction!!!)"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,32 +10,35 @@ redirect_from:
 
 My name is Min-Jae Hwang. 
 I am a research scientist at [Naver Corporation](https://www.navercorp.com/en).
-I obtained my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in department of Electrical and Electronics.
-During my Ph.D., I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
+I received my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in department of Electrical and Electronics.
+During my Ph.D. course, I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
 
 My research interests include speech synthesis.
-Specifically, my research history mainly focuses in improving neural vocoding system for high-quality speech synthesis system, which has a potential to be applied to various speech applications such as speech synthesis, voice conversion, or speech-to-speech translation.
+Specifically, my research history mainly focuses on improving neural vocoding system for high-quality speech synthesis system, which has a potential to be extended to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation techniques.
 
-I'm happy to learn new techniques, and enjoy applying those knowledge to solve our society's real-world problems.
-If you are interested to me, please feel free to contact me!
+I'm happy to learn new knowledge and enjoy applying them to solve our society's real-world problems.
+If you are interested to me, feel free to contact me!
 
 ### <span style="color:green">NEWS!</span>
-:heavy_check_mark: 8/2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher!
+:heavy_check_mark: 6/2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher at this Augest!
 <br>
 :heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
-:heavy_check_mark: 5/2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (title: Voice Synthesis and Applications).
+:heavy_check_mark: 5/2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
+<br>
+:heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/)
 
 ---
 # Education
 - :mortar_board: 2/2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
+  - Thesis supervisor : [Hong-Goo Kang](http://dsp.yonsei.ac.kr/)
 - :mortar_board: 8/2015 : B.S. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
 
 ---
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
-  - High-quality and real-time neural vocoder
-  - Expressive and emotional acoustic model
+  - High-quality and real-time waveform generation method
+  - Expressive and emotional TTS system
 - **Speech-to-speech translation (S2ST)**
   - Direct end-to-end S2ST system
   - Simulaneous S2ST system
@@ -43,7 +46,29 @@ If you are interested to me, please feel free to contact me!
 
 ---
 # Recent Publications
-- **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
+- [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
+  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
+  <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>
+
+- [TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder](https://arxiv.org/abs/2206.14984)  
+  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
+  <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>
+
+- [Linear Prediction-based Parallel WaveGAN Speech Synthesis](https://ieeexplore.ieee.org/abstract/document/9748530/)  
+  <small>Published in [ICEIC 2022](https://iceic.org/2022/)</small>  
+  <small>__Min-Jae Hwang__, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song</small>
+
+- [Effective Data Augmentation Methods for Neural Text-to-Speech Systems](https://ieeexplore.ieee.org/abstract/document/9748515)  
+  <small>Published in [ICEIC 2022](https://iceic.org/2022/)</small>  
+  <small>Suhyeon Oh, Ohsung Kwon, __Min-Jae Hwang__, Jae-Min Kim, Eunwoo Song</small>
+
+- [High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model](https://sewplay.github.io/cv/papers/2021/IS210976.pdf)  
+  <small>Published in [Interspeech 2021](https://www.interspeech2021.org/)</small>  
+  <small>__Min-Jae Hwang__\*, Ryuichi Yamamoto\*, Eunwoo Song, Jae-Min Kim</small>
+
+  [[See more]](https://mjhwang93.github.io/publications/)
+
+<!-- - **TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis Using Ranking Support Vector Machine with Variational Autoencoder**
   - Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, **<var>Min-Jae Hwang</var>**, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim
   - **<var>Interspeech 2022</var>**, [paper](https://arxiv.org/abs/2206.14984) 
 
@@ -61,47 +86,4 @@ If you are interested to me, please feel free to contact me!
 
 - **High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model**
   - **<var>Min-Jae Hwang</var>**, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim
-  - **<var>Interspeech 2021</var>**, [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2021/hwang21_interspeech.pdf) 
-
-
-<!-- # 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+  - **<var>Interspeech 2021</var>**, [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2021/hwang21_interspeech.pdf)  -->
