@@ -11,7 +11,7 @@ redirect_from:
 My name is Min-Jae Hwang. 
 I am a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I received my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in department of Electrical and Electronics.
-During my Ph.D. course, I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
+During my Ph.D. course, I was fortunate to have research experiences as an intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
 
 My research interests include speech synthesis.
 Specifically, my research history focuses on improving performance of neural waveform generation system, which also can be applied to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation.
