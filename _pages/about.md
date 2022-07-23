@@ -14,7 +14,7 @@ I received my Ph.D. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 During my Ph.D. course, I had an internship experiences as a researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
 
 My research interests include speech synthesis.
-Specifically, my research history mainly focuses on enhancing performance of neural waveform generation system, which is also able be applicable to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation techniques.
+Specifically, my research history focuses on improving performance of neural waveform generation system, which also can be applied to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation.
 
 I'm happy to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested to me, feel free to [contact me](https://mjhwang93.github.io/contacts/).
@@ -33,18 +33,18 @@ If you are interested to me, feel free to [contact me](https://mjhwang93.github.
 
 ***
 # Education
-- :mortar_board: 2/2020 : Combined M.S. and Ph.D. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
+- 2/2020 : M.S. and Ph.D. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
   <!-- - Thesis supervisor : [Hong-Goo Kang](http://dsp.yonsei.ac.kr/) -->
-- :mortar_board: 8/2015 : B.S. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
+- 8/2015 : B.S. degree in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
 
 ***
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
-  - High-quality and real-time waveform generation method
-  - Expressive and emotional TTS system
+  - <font size='3'>High-quality and real-time waveform generation method</font>
+  - <font size='3'>Expressive and emotional TTS system</font>
 - **Speech-to-speech translation (S2ST)**
-  - Direct end-to-end S2ST system
-  - Expressive S2ST system
+  - <font size='3'>Direct end-to-end S2ST system</font>
+  - <font size='3'>Expressive S2ST system</font>
 
 ***
 # Recent Publications
