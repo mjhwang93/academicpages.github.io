@@ -36,7 +36,7 @@ author_profile: true
 ## 2021
 - [High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model](https://sewplay.github.io/cv/papers/2021/IS210976.pdf)  
   <small>__Min-Jae Hwang__\*, Ryuichi Yamamoto\*, Eunwoo Song, Jae-Min Kim</small>  
-  <small>Published in [Interspeech 2021](https://www.interspeech2021.org/)</small>  
+  <small>Published in [Interspeech 2021](https://www.interspeech2021.org/) [[video]](https://youtu.be/4khu8MKlU-c)</small>  
 
 - [LiteTTS: A Lightweight Mel-Spectrogram-Free Text-to-Wave Synthesizer Based on Generative Adversarial Networks](https://sewplay.github.io/cv/papers/2021/IS210188.pdf)  
   <small>Huu-Kim Nguyen, Kihyuk Jeong, Seyun Um, __Min-Jae Hwang__, Eunwoo Song, Hong-Goo Kang</small>  
