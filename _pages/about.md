@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+# title: "About Me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /home.html
 ---
 
+{% include base_path %}
+
+# About Me
 My name is Min-Jae Hwang. 
 I am a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
@@ -19,10 +22,10 @@ Specifically, my research history focuses on improving performance of neural wav
 I'm open to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested to me, feel free to [contact me]({{ base_path }}/contacts.html).
 
-<!-- <small>[Download my CV [here]()!]</small> -->
+<small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv_latest.pdf)</small>
 
-### <span style="color:green">NEWS!</span>
-:heavy_check_mark: 6/2022 : I'll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher for this August!
+**<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 6/2022 : I\'ll join [Meta AI Research](https://ai.facebook.com/) as a Postdoctoral Researcher for this August!
 <br>
 :heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
