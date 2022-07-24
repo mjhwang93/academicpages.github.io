@@ -52,16 +52,6 @@ redirect_from:
 </small>
 
 ***
-# Honors and Awards
-<small>
-  &nbsp;&nbsp;&bull; **2nd place, N Innovation Award 2020**, Naver Corp., *Dec. 2020*  
-  &nbsp;&nbsp;&bull; **Best paper award**, APSIPA ASC 2020, *Dec. 2020*  
-  &nbsp;&nbsp;&bull; **1st place, N Innovation Award 2019**, Naver Corp., Dec. 2019  
-  &nbsp;&nbsp;&bull; **Award of Excellence**, Microsoft Research Asia, *Nov. 2018*  
-  &nbsp;&nbsp;&bull; **National Science & Technology Scholarship**, *Sep. 2013 - Feb. 2015* (about $7,000 per year)  
-</small>
-
-***
 # Academic Activites
 **Reviewer**  
 <small>
@@ -88,6 +78,16 @@ redirect_from:
 <small>
   &nbsp;&nbsp;&bull; Signal and Systems (EEE2060.05-00), *2016*  
   &nbsp;&nbsp;&bull; Electrical and Electronic Engineering Experiments: Fundamental (EEE211.01-00), *2015*  
+</small>
+
+***
+# Honors and Awards
+<small>
+  &nbsp;&nbsp;&bull; **2nd place, N Innovation Award 2020**, Naver Corp., *Dec. 2020*  
+  &nbsp;&nbsp;&bull; **Best paper award**, APSIPA ASC 2020, *Dec. 2020*  
+  &nbsp;&nbsp;&bull; **1st place, N Innovation Award 2019**, Naver Corp., Dec. 2019  
+  &nbsp;&nbsp;&bull; **Award of Excellence**, Microsoft Research Asia, *Nov. 2018*  
+  &nbsp;&nbsp;&bull; **National Science & Technology Scholarship**, *Sep. 2013 - Feb. 2015* (about $7,000 per year)  
 </small>
 
 ***

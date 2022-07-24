@@ -29,7 +29,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <br>
 :heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
-:heavy_check_mark: 5/2022 : I gave a guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
+:heavy_check_mark: 5/2022 : I gave guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
 <br>
 :heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
 {: .notice--primary}
