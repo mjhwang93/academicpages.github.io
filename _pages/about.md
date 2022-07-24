@@ -34,6 +34,8 @@ If you are interested to me, feel free to [contact me]({{ base_path }}/contacts.
 :heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
 {: .notice--primary}
 
+<!-- {: .notice} -->
+
 ***
 # Research Interests
 - **Text-to-speech (TTS) synthesis**
