@@ -67,4 +67,4 @@ If you are interested to me, feel free to [contact me]({{ base_path }}/contacts.
   <small>__Min-Jae Hwang__\*, Ryuichi Yamamoto\*, Eunwoo Song, Jae-Min Kim</small>  
   <small>Published in [Interspeech 2021](https://www.interspeech2021.org/)</small>  
 
-  [[See more]]({{ base_path }}/publications/)
+  <small>[[See more]]({{ base_path }}/publications/)</small>
