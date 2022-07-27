@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-*<span style="color:gray"><small>Sep. 2015 - Feb. 2020</small></span>*  
+<span style="color:gray"><small>Sep. 2015 - Feb. 2020</small></span>  
 **M.S. and Ph.D. in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Seoul, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Department of Electrical and Electronics  
@@ -18,34 +18,31 @@ redirect_from:
   &nbsp;&nbsp;&bull; Supervisor : Prof. [Hong-Goo Kang](http://dsp.yonsei.ac.kr/)  
 </small>
 
-*<span style="color:gray"><small>Mar. 2011 - Aug. 2015</small></span>*  
+<span style="color:gray"><small>Mar. 2011 - Aug. 2015</small></span>  
 **B.S. in Electrical and Electronics, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Souel, Korea**  
 <small>
-   <!-- &bull; Mar. 2011 - Aug. 2015   -->
    &nbsp;&nbsp;&bull; Department of Electrical and Electronics  
 </small>
 
 ***
 # Work Experience
-*<span style="color:gray"><small>Jun. 2019 - present</small></span>*  
+<span style="color:gray"><small>Jun. 2019 - present</small></span>  
 **Research Scientist**, **[Naver Clova](https://clova.ai/ko/), Seongnam, Korea**  
 <small>
-  <!-- &nbsp;&nbsp;&bull; Jun. 2019 - Present   -->
   &nbsp;&nbsp;&bull; Primarily researched the high-quality and fast neural vocoding system.  
   &nbsp;&nbsp;&bull; Developed and adopted various neural vocoders for various TTS services at Naver.  
   &nbsp;&nbsp;&bull; Developed PyTorch-based TTS toolkit to build high-quality, fast, and controllable GPU TTS system.  
 </small>
 
-*<span style="color:gray"><small>Jan. 2018 - Nov. 2018</small></span>*  
+<span style="color:gray"><small>Jan. 2018 - Nov. 2018</small></span>  
 **Research Intern**, **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China**  
 <small>
-  <!-- &bull; Jan. 2018 - Nov. 2018   -->
   &nbsp;&nbsp;&bull; Researched the topic of WaveNet vocoders for high-quality TTS system.  
   &nbsp;&nbsp;&bull; Investigated the methodologies to adopt the traditional speech processing approach to the neural vocoding systems.  
   &nbsp;&nbsp;&bull; Mentor: [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)  
 </small>
 
-*<span style="color:gray"><small>Dec. 2018 - Dec. 2018</small></span>*  
+<span style="color:gray"><small>Dec. 2018 - Dec. 2018</small></span>  
 **Research Intern**, **[Naver Clova](https://clova.ai/ko/), Seongnam, Korea**   
 <small>
   &nbsp;&nbsp;&bull; Researched the topic of glottal vocoder-based parametric TTS system.  
@@ -55,7 +52,7 @@ redirect_from:
 # Academic Activites
 **Reviewer**  
 <small>
-  &nbsp;&nbsp;&bull; Interspeech 2022, *2022*  
+  &nbsp;&nbsp;&bull; 2022 Interspeech, *Aug. 2022*  
   &nbsp;&nbsp;&bull; EURASIP Journal on Audio, Speech, and Music Processing, *2018*  
 </small>
 
