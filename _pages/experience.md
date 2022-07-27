@@ -26,7 +26,7 @@ redirect_from:
 
 ***
 # Work Experience
-<span style="color:gray"><small>Jun. 2019 - present</small></span>  
+<span style="color:gray"><small>May. 2019 - Present</small></span>  
 **Research Scientist**, **[Naver Clova](https://clova.ai/ko/), Seongnam, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Primarily researched the high-quality and fast neural vocoding system.  
