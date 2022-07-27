@@ -52,7 +52,7 @@ redirect_from:
 # Academic Activites
 **Reviewer**  
 <small>
-  &nbsp;&nbsp;&bull; 2022 Interspeech, *Aug. 2022*  
+  &nbsp;&nbsp;&bull; 2022 Interspeech, *2022*  
   &nbsp;&nbsp;&bull; EURASIP Journal on Audio, Speech, and Music Processing, *2018*  
 </small>
 
