@@ -63,7 +63,7 @@ redirect_from:
 
 **Talks**  
 <small>
-  &nbsp;&nbsp;&bull; "Voice synthesis and Application", KAIST and SNU, *Apr. - May. 2022*  
+  &nbsp;&nbsp;&bull; "Voice Synthesis and Application", KAIST and SNU, *Apr. - May. 2022*  
   &nbsp;&nbsp;&bull; "High-fidelity Parallel WaveGAN with Harmonic-plus-Noise Model", Naver Clova, *Jul. 2021*  
   &nbsp;&nbsp;&bull; "Low-cost and High-quality TTS based on TTS-driven Data Augmentation", Naver Clova, *Jan. 2021*  
   &nbsp;&nbsp;&bull; "TTS-driven Data Augmentation for Fast and High-quality Speech Synthesis", Naver Clova, *Oct. 2020*  
