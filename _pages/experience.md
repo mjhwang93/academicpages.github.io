@@ -42,7 +42,7 @@ redirect_from:
   &nbsp;&nbsp;&bull; Mentor: [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)  
 </small>
 
-<span style="color:gray"><small>Dec. 2018 - Dec. 2018</small></span>  
+<span style="color:gray"><small>Dec. 2017 - Dec. 2017</small></span>  
 **Research Intern**, **[Naver Clova](https://clova.ai/ko/), Seongnam, Korea**   
 <small>
   &nbsp;&nbsp;&bull; Researched the topic of glottal vocoder-based parametric TTS system.  
