@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mjhwang93.github.io/sitemap.xml
