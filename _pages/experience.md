@@ -88,9 +88,9 @@ redirect_from:
 </small>
 
 ***
-# Patents
+# Patent Applications
 <small>
-  &nbsp;&nbsp;&bull; KR 10-2022-0047188, "Method and System for Synthesizing Emotional Speech based on Emotion Prediction", *Apr. 2022*  
-  &nbsp;&nbsp;&bull; KR 10-2022-0012736, “Neural Network for Speech Synthesis Based on Selective Self-augmentation Algorithm”, *Jan. 2022*  
-  &nbsp;&nbsp;&bull; KR 10-2022-0012736, “Method and System for Non-autoregressive Speech Synthesis", *Aug. 2021*  
+  &nbsp;&nbsp;&bull; KR 10-2022-0047188, "Method and System for Synthesizing Emotional Speech based on Emotion Prediction", *Apr. 2022*   
+  &nbsp;&nbsp;&bull; KR 10-2022-0012736, “Neural Network for Speech Synthesis Based on Selective Self-augmentation Algorithm”, *Jan. 2022*   
+  &nbsp;&nbsp;&bull; KR 10-2022-0012736, “Method and System for Non-autoregressive Speech Synthesis", *Aug. 2021*   
 </small>
