@@ -22,7 +22,7 @@ Specifically, my research history focuses on improving performance of neural wav
 I'm open to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
 
-<small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv_latest.pdf)</small>
+<small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
 :heavy_check_mark: 6/2022 : I\'ll join [Meta AI Research, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this September!
