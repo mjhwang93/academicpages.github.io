@@ -25,7 +25,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 6/2022 : I\'ll join [Meta AI Research, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this September!
+:heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October!
 <br>
 :heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
