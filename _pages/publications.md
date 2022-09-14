@@ -14,7 +14,10 @@ author_profile: true
 ***
 <small>(* denotes equal contribution)</small>
 
-## Preprints
+<!-- ## Preprints -->
+
+***
+## 2022
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
   <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>
@@ -23,8 +26,6 @@ author_profile: true
   <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
   <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
 
-***
-## 2022
 - [Linear Prediction-based Parallel WaveGAN Speech Synthesis](https://ieeexplore.ieee.org/abstract/document/9748530/)  
   <small>__Min-Jae Hwang__, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song</small>  
   <small>Published in [ICEIC 2022](https://iceic.org/2022/)</small>  
