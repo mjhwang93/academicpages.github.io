@@ -14,13 +14,15 @@ author_profile: true
 ***
 <small>(* denotes equal contribution)</small>
 
-<!-- ## Preprints -->
-
-***
+**
 ## 2022
+- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX)  
+  <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, Min-Jae Hwang, Seong-Whan Lee</small>  
+  <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
+
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
-  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>
+  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
 
 - [TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder](https://arxiv.org/abs/2206.14984)  
   <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
