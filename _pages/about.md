@@ -25,15 +25,15 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 9/2022 : Our paper has been accepted to [NeurIPS 2022](https://nips.cc/).
+:heavy_check_mark: 9/2022 : Our paper<sup>[1](https://openreview.net/pdf?id=awdyRVnfQKX)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/).
 <br>
 :heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October!
 <br>
-:heavy_check_mark: 5/2022 : Our two papers have been accepted to [Interspeech 2022](https://interspeech2022.org/).
+:heavy_check_mark: 5/2022 : Our two papers<sup>[1](https://arxiv.org/abs/2206.14984), [2](https://arxiv.org/abs/2206.15067)</sup> have been accepted to [Interspeech 2022](https://interspeech2022.org/).
 <br>
 :heavy_check_mark: 5/2022 : I gave guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
 <br>
-:heavy_check_mark: 1/2022 : Our two papers have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
+:heavy_check_mark: 1/2022 : Our two papers<sup>[1](https://ieeexplore.ieee.org/abstract/document/9748515), [2](https://ieeexplore.ieee.org/abstract/document/9748530/)</sup> have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
 {: .notice--primary}
 
 <!-- {: .notice} -->
