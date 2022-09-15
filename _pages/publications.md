@@ -14,10 +14,12 @@ author_profile: true
 ***
 <small>(* denotes equal contribution)</small>
 
-**
+<!-- ## Preprints -->
+***
+
 ## 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX)  
-  <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, Min-Jae Hwang, Seong-Whan Lee</small>  
+  <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
   <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
 
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
