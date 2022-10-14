@@ -18,7 +18,7 @@ author_profile: true
 ***
 
 ## 2022
-- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX)  
+- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
   <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
 

@@ -26,7 +26,13 @@ redirect_from:
 
 ***
 # Work Experience
-<span style="color:gray"><small>May. 2019 - Present</small></span>  
+<span style="color:gray"><small>Oct. 2022 - Present</small></span>  
+**Postdoctoral Researcher**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
+<small>
+  &nbsp;&nbsp;&bull; Presently researching expressive speech-to-speech translation system.
+</small>
+
+<span style="color:gray"><small>May. 2019 - Sep. 2022</small></span>  
 **Research Scientist**, **[Naver Clova](https://clova.ai/ko/), Seongnam, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Primarily researched the high-quality and fast neural vocoding system.  

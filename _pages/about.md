@@ -12,12 +12,14 @@ redirect_from:
 
 # About Me
 My name is Min-Jae Hwang. 
-I am a research scientist at [Naver Corporation](https://www.navercorp.com/en).
+I am currently a postdoctoral researcher at [Meta AI](https://ai.facebook.com/).
+Prior to Meta AI, I was a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
 During my Ph.D. course, I was fortunate to have research experiences as an intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
 
-My research interests include speech synthesis.
-Specifically, my research history focuses on improving performance of neural waveform generation system, which can be also extended to other speech applications such as voice conversion, singing voice synthesis, or speech-to-speech translation.
+My research interests include speech synthesis and speech-to-speech translation (S2ST).
+Specifically, my research history focuses on improving performance of neural waveform generation system for Text-to-Speech (TTS) systems.
+At Meta, I extended my research field to the expressive S2ST, which preserves source speech's non-lexical characteristics during speech translation process.
 
 I'm open to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
@@ -44,12 +46,12 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   - <small>High-quality and real-time waveform generation method</small>
   - <small>Expressive and emotional TTS system</small>
 - **Speech-to-speech translation (S2ST)**
-  - <small>Direct end-to-end S2ST system</small>
   - <small>Expressive S2ST system</small>
+  - <small>Direct end-to-end S2ST system</small>
 
 ***
 # Recent Publications
-- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX)  
+- [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
   <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
 

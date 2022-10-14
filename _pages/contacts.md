@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> **Email (office)**  
-<small>&nbsp;min-jae.hwang@navercorp.com</small>  
+<small>&nbsp;mjhwang@fb.com</small>  
 
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> **Email (personal)**  
 <small>&nbsp;hmj234@dsp.yonsei.ac.kr</small>  
