@@ -16,4 +16,4 @@ redirect_from:
 <small>&nbsp;hmj234@dsp.yonsei.ac.kr</small>  
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> **Address (office)**  
-<small>&nbsp;95, Jeongjail-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea</small>  
+<small>&nbsp;1101 Dexter Ave N&#xa;Seattle, WA 98109&#xa;United States of America</small>  
