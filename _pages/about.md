@@ -19,7 +19,7 @@ During my Ph.D. course, I was fortunate to have research experiences as an inter
 
 My research interests include [Text-to-Speech (TTS)](https://www.ncloud.com/product/aiService/css) and [Speech-to-Speech Translation (S2ST)](https://ai.facebook.com/blog/teaching-ai-to-translate-100s-of-spoken-and-written-languages-in-real-time/).
 Specifically, my research history focuses on improving performance of neural vocoder for TTS systems.
-At Meta, I extended my research field to the expressive S2ST, which preserves source speech's non-lexical characteristics during speech translation process.
+At Meta, I extended my research field to the expressive S2ST, which preserves source speech's paralinguistic characteristics during speech translation process.
 
 I'm open to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
