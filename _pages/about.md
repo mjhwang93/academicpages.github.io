@@ -27,29 +27,41 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 11/2023 : We launched [Seamless](https://ai.meta.com/research/seamless-communication/), a new family of AI translation models that preserve expression and deliver near-real time streaming translations.
+<br>
+:heavy_check_mark: 10/2023 : SeamlessM4T was recognized by [TIME magazine](https://time.com/collection/best-inventions-2023/6326994/meta-seamlessm4t/) among the best inventions of 2023!
+<br>
+:heavy_check_mark: 8/2023 : We launched [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/), a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text.
+<br>
 :heavy_check_mark: 9/2022 : Our paper<sup>[1](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/).
 <br>
 :heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October!
-<br>
-:heavy_check_mark: 5/2022 : Our two papers<sup>[1](https://arxiv.org/abs/2206.14984), [2](https://arxiv.org/abs/2206.15067)</sup> have been accepted to [Interspeech 2022](https://interspeech2022.org/).
-<br>
-:heavy_check_mark: 5/2022 : I gave guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications).
-<br>
-:heavy_check_mark: 1/2022 : Our two papers<sup>[1](https://ieeexplore.ieee.org/abstract/document/9748515), [2](https://ieeexplore.ieee.org/abstract/document/9748530/)</sup> have been aceepted to [ICEIC 2022](https://iceic.org/2022/).
+<!-- <br> -->
+<!-- :heavy_check_mark: 5/2022 : Our two papers<sup>[1](https://arxiv.org/abs/2206.14984), [2](https://arxiv.org/abs/2206.15067)</sup> have been accepted to [Interspeech 2022](https://interspeech2022.org/). -->
+<!-- <br> -->
+<!-- :heavy_check_mark: 5/2022 : I gave guest lectures at [KAIST](https://www.kaist.ac.kr/en/) and [SNU](https://en.snu.ac.kr/) (Topic : Voice Synthesis and Applications). -->
+<!-- <br> -->
+<!-- :heavy_check_mark: 1/2022 : Our two papers<sup>[1](https://ieeexplore.ieee.org/abstract/document/9748515), [2](https://ieeexplore.ieee.org/abstract/document/9748530/)</sup> have been aceepted to [ICEIC 2022](https://iceic.org/2022/). -->
 {: .notice--primary}
 
 <!-- {: .notice} -->
 
 ***
 # Research Interests
+- **Speech-to-speech translation (S2ST)**
+  - <small>Expressive S2ST system</small>
 - **Text-to-speech (TTS) synthesis**
   - <small>High-quality and real-time waveform generation method</small>
   - <small>Expressive and emotional TTS system</small>
-- **Speech-to-speech translation (S2ST)**
-  - <small>Expressive S2ST system</small>
 
 ***
 # Recent Publications
+- [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
+  <small>Team Seamless Communication</small>
+
+- [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
+  <small>Team Seamless Communication</small>
+
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
   <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
@@ -61,18 +73,6 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 - [TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder](https://arxiv.org/abs/2206.14984)  
   <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
   <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
-
-- [Linear Prediction-based Parallel WaveGAN Speech Synthesis](https://ieeexplore.ieee.org/abstract/document/9748530/)  
-  <small>__Min-Jae Hwang__, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song</small>  
-  <small>Published in [ICEIC 2022](https://iceic.org/2022/)</small>  
-
-- [Effective Data Augmentation Methods for Neural Text-to-Speech Systems](https://ieeexplore.ieee.org/abstract/document/9748515)  
-  <small>Suhyeon Oh, Ohsung Kwon, __Min-Jae Hwang__, Jae-Min Kim, Eunwoo Song</small>  
-  <small>Published in [ICEIC 2022](https://iceic.org/2022/)</small>  
-
-- [High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model](https://sewplay.github.io/cv/papers/2021/IS210976.pdf)  
-  <small>__Min-Jae Hwang__\*, Ryuichi Yamamoto\*, Eunwoo Song, Jae-Min Kim</small>  
-  <small>Published in [Interspeech 2021](https://www.interspeech2021.org/)</small>  
 
   <small>[[See more]]({{ base_path }}/publications/)</small>
 

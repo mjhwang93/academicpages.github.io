@@ -20,6 +20,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "nokogiri", ">= 1.6.7.rc"
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
@@ -27,6 +28,7 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'tzinfo'
   gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+  gem 'liquid', '= 4.0.4'
 end
 
 gem "eventmachine", "~> 1.2"

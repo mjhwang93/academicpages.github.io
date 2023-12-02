@@ -14,7 +14,13 @@ author_profile: true
 ***
 <small>(* denotes equal contribution)</small>
 
-<!-- ## Preprints -->
+## Preprints
+- [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
+  <small>Team Seamless Communication</small>
+
+- [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
+  <small>Team Seamless Communication</small>
+
 ***
 
 ## 2022
