@@ -29,7 +29,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 **<span style="color:green">NEWS!</span>**  
 :heavy_check_mark: 11/2023 : We launched [Seamless](https://ai.meta.com/research/seamless-communication/), a new family of AI translation models that preserve expression and deliver near-real time streaming translations.
 <br>
-:heavy_check_mark: 10/2023 : SeamlessM4T was recognized by [TIME magazine](https://time.com/collection/best-inventions-2023/6326994/meta-seamlessm4t/) among the best inventions of 2023!
+:heavy_check_mark: 11/2023 : SeamlessM4T was recognized by [TIME magazine](https://time.com/collection/best-inventions-2023/6326994/meta-seamlessm4t/) among the best inventions of 2023!
 <br>
 :heavy_check_mark: 8/2023 : We launched [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/), a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text.
 <br>
