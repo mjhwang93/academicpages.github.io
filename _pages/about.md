@@ -10,9 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-# About Me
-My name is Min-Jae Hwang. 
-I am currently a postdoctoral researcher at [Meta AI](https://ai.facebook.com/).
+# Min-Jae Hwang
+I am currently a Research Scientist at [Meta AI](https://ai.facebook.com/).
 Prior to Meta AI, I was a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
 During my Ph.D. course, I was fortunate to have research experiences as an intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
@@ -27,15 +26,19 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
+<br>
+:heavy_check_mark: 2/2024 : I gave guest lectures at [BishBash 2024 event]({{base_path}}/files/slides/2402_bish_bash.pdf) for the topic of expressive S2ST.
+<br>
 :heavy_check_mark: 11/2023 : We launched [Seamless](https://ai.meta.com/research/seamless-communication/), a new family of AI translation models that preserve expression and deliver near-real time streaming translations.
 <br>
 :heavy_check_mark: 11/2023 : SeamlessM4T was recognized by [TIME magazine](https://time.com/collection/best-inventions-2023/6326994/meta-seamlessm4t/) among the best inventions of 2023!
 <br>
 :heavy_check_mark: 8/2023 : We launched [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/), a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text.
-<br>
-:heavy_check_mark: 9/2022 : Our paper<sup>[1](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/).
-<br>
-:heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October!
+<!-- <br>
+:heavy_check_mark: 9/2022 : Our paper<sup>[1](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/). -->
+<!-- <br> -->
+<!-- :heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October! -->
 <!-- <br> -->
 <!-- :heavy_check_mark: 5/2022 : Our two papers<sup>[1](https://arxiv.org/abs/2206.14984), [2](https://arxiv.org/abs/2206.15067)</sup> have been accepted to [Interspeech 2022](https://interspeech2022.org/). -->
 <!-- <br> -->
