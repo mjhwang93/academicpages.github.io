@@ -26,10 +26,18 @@ redirect_from:
 
 ***
 # Work Experience
-<span style="color:gray"><small>Oct. 2022 - Present</small></span>  
+<span style="color:gray"><small>May. 2024 - Present</small></span>  
+**Research Scientist**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
+<small>
+  &nbsp;&nbsp;&bull; Presently researching expressive conversational AI voice agent.  
+  &nbsp;&nbsp;&bull; Presently researching expressive speech-to-speech translation system.
+</small>
+
+<span style="color:gray"><small>Oct. 2022 - May. 2024</small></span>  
 **Postdoctoral Researcher**, **[Meta AI](https://ai.facebook.com/), Seattle, Washington, USA**  
 <small>
-  &nbsp;&nbsp;&bull; Presently researching expressive speech-to-speech translation system.
+  &nbsp;&nbsp;&bull; Researched expressive speech-to-speech translation system.  
+  &nbsp;&nbsp;&bull; Developed PRETSSEL, which is core module of Meta's expressivity-preserving S2ST system.
 </small>
 
 <span style="color:gray"><small>May. 2019 - Sep. 2022</small></span>  
@@ -69,6 +77,7 @@ redirect_from:
 
 **Talks**  
 <small>
+  &nbsp;&nbsp;&bull; "Expressive Speech-to-Speech Translation", BISH Bash, *Feb. 2024* <small>[[slide]]({{base_path}}/files/slides/2402_bish_bash.pdf)</small>  
   &nbsp;&nbsp;&bull; "Voice Synthesis and Application", KAIST and SNU, *Apr. - May. 2022* <small>[[slide]]({{base_path}}/files/slides/2205_kaist_snu_public.pdf)</small>  
   &nbsp;&nbsp;&bull; "High-fidelity Parallel WaveGAN with Harmonic-plus-Noise Model", Naver Clova, *Jul. 2021* <small>[[slide]]({{base_path}}/files/slides/2107_enday_hnpwg_v1.pdf)</small>  
   &nbsp;&nbsp;&bull; "Low-cost and High-quality TTS based on TTS-driven Data Augmentation", Naver Clova, *Jan. 2021*   
