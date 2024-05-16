@@ -26,6 +26,8 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 5/2024 : One paper has been accepted to [ACL 2024](https://2024.aclweb.org/).
+<br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
 <br>
 :heavy_check_mark: 2/2024 : I gave guest lectures at [BishBash 2024 event]({{base_path}}/files/slides/2402_bish_bash.pdf) for the topic of expressive S2ST.
