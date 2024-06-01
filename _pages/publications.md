@@ -16,30 +16,29 @@ author_profile: true
 
 ## Preprints
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Team Seamless Communication</small>
+  <small>Seamless Communication</small>
 
 - [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
-  <small>Team Seamless Communication</small>
+  <small>Seamless Communication</small>
 
 ***
 ## 2024
 - [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html)  
-  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee<small>  
+  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
   <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
-
 
 ## 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
-  <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
+  <small>Published in [NeurIPS 2022](https://nips.cc/)</small>  
 
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
-  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
+  <small>Published in [Interspeech 2022](https://interspeech2022.org/)</small>  
 
 - [TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder](https://arxiv.org/abs/2206.14984)  
   <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
-  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
+  <small>Published in [Interspeech 2022](https://interspeech2022.org/)</small>  
 
 - [Linear Prediction-based Parallel WaveGAN Speech Synthesis](https://ieeexplore.ieee.org/abstract/document/9748530/)  
   <small>__Min-Jae Hwang__, Hyun-Wook Yoon, Chan-Ho Song, Jin-Seob Kim, Jae-Min Kim, Eunwoo Song</small>  

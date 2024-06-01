@@ -61,17 +61,15 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
-- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation]()
-  <small><small>
+- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html)  
+  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee<small>  
+  <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
 
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Team Seamless Communication</small>
-  
-- [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Team Seamless Communication</small>
+  <small>Seamless Communication</small>
 
 - [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
-  <small>Team Seamless Communication</small>
+  <small>Seamless Communication</small>
 
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
@@ -80,12 +78,6 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
   <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
-
-- [TTS-by-TTS 2: Data-selective Augmentation for Neural Speech Synthesis using Ranking Support Vector Machine with Variational Autoencoder](https://arxiv.org/abs/2206.14984)  
-  <small>Eunwoo Song, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, __Min-Jae Hwang__, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
-  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
-
-  <small>[[See more]]({{ base_path }}/publications/)</small>
 
 ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
