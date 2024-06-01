@@ -11,14 +11,13 @@ redirect_from:
 {% include base_path %}
 
 # Min-Jae Hwang
-I am currently a Research Scientist at [Meta AI](https://ai.facebook.com/).
+I am a Research Scientist at [Meta AI](https://ai.facebook.com/).
+My area of expertise lies in high-quality and expressive speech generation, which has applications in [Text-to-Speech (TTS)](https://www.ncloud.com/product/aiService/css) and [Speech-to-Speech Translation (S2ST)](https://ai.facebook.com/blog/teaching-ai-to-translate-100s-of-spoken-and-written-languages-in-real-time/).
+In this field, I've contributed to various projects like [Clova Dubbing](https://clovadubbing.naver.com/) and [Seamless Communication](https://ai.meta.com/research/seamless-communication/).
+
 Prior to Meta AI, I was a research scientist at [Naver Corporation](https://www.navercorp.com/en).
 I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
 During my Ph.D. course, I was fortunate to have research experiences as an intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Naver Corporation](https://www.navercorp.com/en).
-
-My research interests include [Text-to-Speech (TTS)](https://www.ncloud.com/product/aiService/css) and [Speech-to-Speech Translation (S2ST)](https://ai.facebook.com/blog/teaching-ai-to-translate-100s-of-spoken-and-written-languages-in-real-time/).
-Specifically, my research history focuses on improving performance of neural vocoder for TTS systems.
-At Meta, I extended my research field to the expressive S2ST, which preserves source speech's paralinguistic characteristics during speech translation process.
 
 I'm open to learn new knowledge and enjoy applying them to solve our society's real-world problems.
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
@@ -26,7 +25,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 5/2024 : One paper has been accepted to [ACL 2024](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html).
+:heavy_check_mark: 5/2024 : One paper has been accepted to [Findings of ACL 2024](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html).
 <br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
 <br>
@@ -62,7 +61,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 ***
 # Recent Publications
 - [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html)  
-  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee<small>  
+  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
   <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
 
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
@@ -73,11 +72,11 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
-  <small>Accepted to [NeurIPS 2022](https://nips.cc/)</small>  
+  <small>Published in [NeurIPS 2022](https://nips.cc/)</small>  
 
 - [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
-  <small>Accepted to [Interspeech 2022](https://interspeech2022.org/)</small>  
+  <small>Published in [Interspeech 2022](https://interspeech2022.org/)</small>  
 
 ***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
