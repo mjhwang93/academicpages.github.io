@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 # Min-Jae Hwang
-I am a Research Scientist at [Meta AI](https://ai.facebook.com/).
+I am a research scientist at [Meta AI](https://ai.facebook.com/).
 My area of expertise lies in high-quality and expressive speech generation, which has applications in [Text-to-Speech (TTS)](https://www.ncloud.com/product/aiService/css) and [Speech-to-Speech Translation (S2ST)](https://ai.facebook.com/blog/teaching-ai-to-translate-100s-of-spoken-and-written-languages-in-real-time/).
 In this field, I've contributed to various projects like [Clova Dubbing](https://clovadubbing.naver.com/) and [Seamless Communication](https://ai.meta.com/research/seamless-communication/).
 
