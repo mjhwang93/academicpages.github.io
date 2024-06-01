@@ -26,7 +26,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 5/2024 : One paper has been accepted to [ACL 2024](https://2024.aclweb.org/).
+:heavy_check_mark: 5/2024 : One paper has been accepted to [ACL 2024](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html).
 <br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
 <br>
@@ -61,6 +61,12 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation]()
+  <small><small>
+
+- [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
+  <small>Team Seamless Communication</small>
+  
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
   <small>Team Seamless Communication</small>
 

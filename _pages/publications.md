@@ -22,6 +22,11 @@ author_profile: true
   <small>Team Seamless Communication</small>
 
 ***
+## 2024
+- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html)  
+  <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee<small>  
+  <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
+
 
 ## 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
