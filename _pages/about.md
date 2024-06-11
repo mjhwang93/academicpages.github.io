@@ -25,7 +25,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 5/2024 : One paper has been accepted to [Findings of ACL 2024](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html).
+:heavy_check_mark: 5/2024 : One paper<sup>[1]((https://arxiv.org/abs/2406.02733))</sup> has been accepted to [Findings of ACL 2024](https://2024.aclweb.org/).
 <br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
 <br>
@@ -60,7 +60,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
-- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://facebookresearch.github.io/seamless_communication/demo/dino_pretssel/index.html)  
+- [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2406.02733)  
   <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
   <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
 
@@ -79,4 +79,4 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   <small>Published in [Interspeech 2022](https://interspeech2022.org/)</small>  
 
 ***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
