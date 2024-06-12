@@ -25,7 +25,7 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
-:heavy_check_mark: 5/2024 : One paper<sup>[1]((https://arxiv.org/abs/2406.02733))</sup> has been accepted to [Findings of ACL 2024](https://2024.aclweb.org/).
+:heavy_check_mark: 5/2024 : One paper<sup>[1](https://arxiv.org/abs/2406.02733)</sup> has been accepted to [Findings of ACL 2024](https://2024.aclweb.org/).
 <br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
 <br>
