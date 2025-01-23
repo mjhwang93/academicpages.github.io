@@ -15,13 +15,22 @@ author_profile: true
 <small>(* denotes equal contribution)</small>
 
 ## Preprints
+- [Characterizing and Efficiently Accelerating Multimodal Generation Model Inference](https://arxiv.org/abs/2410.00215)  
+  <small>Yejin Lee, Anna Sun, Basil Hosmer, Bilge Acun, Can Balioglu, Changhan Wang, Charles David Hernandez, Christian Puhrsch, Daniel Haziza, Driss Guessous, Francisco Massa, Jacob Kahn, Jeffrey Wan, Jeremy Reizenstein, Jiaqi Zhai, Joe Isaacson, Joel Schlosser, Juan Pino, Kaushik Ram Sadagopan, Leonid Shamis, Linjian Ma, __Min-Jae Hwang__, Mingda Chen, Mostafa Elhoushi, Pedro Rodriguez, Ram Pasunuru, Scott Yih, Sravya Popuri, Xing Liu, Carole-Jean Wu</small>  
+  <small>Submitted to [HPCA 2025 Industry Track](https://hpca-conf.org/2025/)</small>  
+
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Seamless Communication</small>
+  <small>Seamless Communication Team</small>
 
 - [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
-  <small>Seamless Communication</small>
+  <small>Seamless Communication Team</small>
 
 ***
+## 2025
+- [Joint speech and text machine translation for up to 100 languages](https://www.nature.com/articles/s41586-024-08359-z)  
+  <small>Seamless Communication Team</small>  
+  <small>Published in [Nature Magazine](https://www.nature.com/)</small>
+
 ## 2024
 - [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2406.02733)  
   <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  

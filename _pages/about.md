@@ -25,6 +25,8 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 <small><i class="fa fa-download" aria-hidden="true"></i> Download my [CV]({{base_path}}/files/cv/cv_latest.pdf)</small>
 
 **<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: 1/2025 : One paper<sup>[1](https://www.nature.com/articles/s41586-024-08359-z)</sup> has been accepted to [Nature Magazine](https://www.nature.com/).
+<br>
 :heavy_check_mark: 5/2024 : One paper<sup>[1](https://arxiv.org/abs/2406.02733)</sup> has been accepted to [Findings of ACL 2024](https://2024.aclweb.org/).
 <br>
 :heavy_check_mark: 5/2024 : I joined [Meta AI, Seattle, USA](https://ai.facebook.com/) as Research Scientist!
@@ -34,10 +36,10 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 :heavy_check_mark: 11/2023 : We launched [Seamless](https://ai.meta.com/research/seamless-communication/), a new family of AI translation models that preserve expression and deliver near-real time streaming translations.
 <br>
 :heavy_check_mark: 11/2023 : SeamlessM4T was recognized by [TIME magazine](https://time.com/collection/best-inventions-2023/6326994/meta-seamlessm4t/) among the best inventions of 2023!
-<br>
-:heavy_check_mark: 8/2023 : We launched [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/), a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text.
-<!-- <br>
-:heavy_check_mark: 9/2022 : Our paper<sup>[1](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/). -->
+<!-- <br> -->
+<!-- :heavy_check_mark: 8/2023 : We launched [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/), a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text. -->
+<!-- <br> -->
+<!-- :heavy_check_mark: 9/2022 : Our paper<sup>[1](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)</sup> has been accepted to [NeurIPS 2022](https://nips.cc/). -->
 <!-- <br> -->
 <!-- :heavy_check_mark: 6/2022 : I\'ll join [Meta AI, Seattle, USA](https://ai.facebook.com/) as a Postdoctoral Researcher for this October! -->
 <!-- <br> -->
@@ -60,23 +62,27 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- [Joint speech and text machine translation for up to 100 languages](https://www.nature.com/articles/s41586-024-08359-z)
+  <small>Seamless Communication Team</small>
+  <small>Published in [Nature Magazine](https://www.nature.com/)</small>
+
+- [Characterizing and Efficiently Accelerating Multimodal Generation Model Inference](https://arxiv.org/abs/2410.00215)
+  <small>Yejin Lee, Anna Sun, Basil Hosmer, Bilge Acun, Can Balioglu, Changhan Wang, Charles David Hernandez, Christian Puhrsch, Daniel Haziza, Driss Guessous, Francisco Massa, Jacob Kahn, Jeffrey Wan, Jeremy Reizenstein, Jiaqi Zhai, Joe Isaacson, Joel Schlosser, Juan Pino, Kaushik Ram Sadagopan, Leonid Shamis, Linjian Ma, __Min-Jae Hwang__, Mingda Chen, Mostafa Elhoushi, Pedro Rodriguez, Ram Pasunuru, Scott Yih, Sravya Popuri, Xing Liu, Carole-Jean Wu</small>
+  <small>Submitted to [HPCA 2025 Industry Track](https://hpca-conf.org/2025/)</small>  
+
 - [Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2406.02733)  
   <small>__Min-Jae Hwang__, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, and Ann Lee</small>  
-  <small>Accepted to [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
+  <small>Published in [Findings of ACL 2024](https://2024.aclweb.org/)</small>  
 
 - [Seamless: Multilingual Expressive and Streaming Speech Translation](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/)  
-  <small>Seamless Communication</small>
+  <small>Seamless Communication Team</small>
 
 - [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/)  
-  <small>Seamless Communication</small>
+  <small>Seamless Communication Team</small>
 
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://nips.cc/Conferences/2022/Schedule?showEvent=54658)  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, Eunwoo Song, __Min-Jae Hwang__, Seong-Whan Lee</small>  
   <small>Published in [NeurIPS 2022](https://nips.cc/)</small>  
 
-- [Language Model-Based Emotion Prediction Methods for Emotional Speech Synthesis Systems](https://arxiv.org/abs/2206.15067)  
-  <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim, __Min-Jae Hwang__</small>  
-  <small>Published in [Interspeech 2022](https://interspeech2022.org/)</small>  
-
 ***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmjhwang93.github.io&count_bg=%2364C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
